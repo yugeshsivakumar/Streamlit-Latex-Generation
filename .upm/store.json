@@ -1,0 +1,1 @@
+{"version":2,"languages":{"python3-pip":{"specfileHash":"5372ffbb21cb97d3105f8c1ab1b8d307","guessedImports":["python-dotenv","streamlit","openai","sympy"],"guessedImportsHash":"86ee30dc64c151a4cc9e92373c71db4d"}}}
